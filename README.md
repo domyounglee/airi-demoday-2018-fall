@@ -45,4 +45,5 @@ python ./manage.py runsslserver 0.0.0.0:8000
  * 웹페이지 열고 플레이버튼 한번 누르기
 
 
-
+## demo video 
+https://youtu.be/wswVLtEJzk4
